@@ -28,10 +28,10 @@ VITE_API_URL=http://localhost:5000/api
 
 ## Vercel deployment
 
-Deploy the frontend and backend as two separate Vercel projects. Do not use the
-old `services` configuration or deploy both folders as services inside one
-Vercel project. That configuration causes the error that an Express service
-must specify a Node entrypoint.
+Deploy the frontend and backend as two separate Vercel projects. Do not use a
+`services` block in the root `vercel.json`; Vercel deploys each project with
+one root and one runtime. The old multi-service block causes the error that an
+Express service must specify a Node entrypoint.
 
 ### Backend project
 
