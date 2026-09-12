@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import "tailwindcss";
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  min-width: 320px;
+  /* background-color: #f8f7f3; */
+  background-color: #2e5a46;
+  overflow-x: hidden;
+}
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+}
+/* 
+.hero{
+  background-image:url(./assets/heroChart.png);
+  width: 80%;
+  margin: auto;
+   background-size: cover;
+   background-position: center;
+
+  
+
+} */
+
+.container{
+  width:85%;
+  margin:auto;
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Shawarma Wrap",
+    "category": "Main Course",
+    "price": 120,
+    "description": "Grilled chicken shawarma with garlic sauce, pickles, and fries in a warm wrap.",
+    "image": "https://i.pinimg.com/736x/1a/a4/96/1aa4968e72bdb0b78e07d306a658e8a1.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Koshari",
+    "category": "Main Course",
+    "price": 65,
+    "description": "Classic Egyptian koshari — rice, lentils, macaroni, crispy onions, and spicy tomato sauce.",
+    "image": "https://i.pinimg.com/736x/90/f0/74/90f07428cfdd5d94c892aa0ef4cb6236.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:05:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Grilled Kofta Platter",
+    "category": "Main Course",
+    "price": 180,
+    "description": "Char-grilled beef kofta served with rice, salad, and tahini sauce.",
+    "image": "https://i.pinimg.com/736x/3c/fb/e5/3cfbe5d23c9827eaca983efcd88ccc70.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:10:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Molokhia with Rabbit",
+    "category": "Main Course",
+    "price": 210,
+    "description": "Traditional molokhia stew served with rice and your choice of protein.",
+    "image": "https://i.pinimg.com/736x/35/5e/3b/355e3b4f0287fac04b50afcb4cf576a6.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:15:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Fattoush Salad",
+    "category": "Appetizer",
+    "price": 55,
+    "description": "Crisp mixed greens, tomatoes, and toasted pita with pomegranate dressing.",
+    "image": "https://i.pinimg.com/1200x/e3/6b/06/e36b06105f45817bd4aa473ae0c51973.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:20:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Cheese Sambousek (6 pcs)",
+    "category": "Appetizer",
+    "price": 70,
+    "description": "Crispy pastry pockets filled with melted cheese, fried golden.",
+    "image": "https://i.pinimg.com/1200x/b0/f1/1a/b0f11a280ddcfc9b033dec262a400005.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:25:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Umm Ali",
+    "category": "Dessert",
+    "price": 60,
+    "description": "Warm Egyptian bread pudding with milk, nuts, and raisins.",
+    "image": "https://i.pinimg.com/736x/fb/53/c5/fb53c599d6ad48dce7ac473a92d84530.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:30:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Kunafa Slice",
+    "category": "Dessert",
+    "price": 75,
+    "description": "Crispy shredded pastry layered with sweet cheese and syrup.",
+    "image": "https://i.pinimg.com/1200x/c2/64/ca/c264cadfa7d4c803a0c53dfe45bd931b.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:35:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Fresh Mango Juice",
+    "category": "Beverage",
+    "price": 40,
+    "description": "Freshly blended seasonal mango juice, no added sugar.",
+    "image": "https://i.pinimg.com/736x/35/69/cd/3569cd542d4880ccebd8400762d591c9.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:40:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Hibiscus Tea (Karkade)",
+    "category": "Beverage",
+    "price": 30,
+    "description": "Chilled hibiscus tea, a classic Egyptian favorite.",
+    "image": "https://i.pinimg.com/1200x/85/17/4c/85174ce64b4d0414e957527464c033fb.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:45:00.000Z"
+  }
+]

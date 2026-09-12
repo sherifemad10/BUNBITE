@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1788905229878",
+    "name": "Admin",
+    "email": "admin@techmaster.com",
+    "password": "$2a$10$WKH/vl/EBJ034mf4513bfuGQSzWXIULUThirC8EU0ANWHy6emBF1O",
+    "role": "admin",
+    "createdAt": "2026-09-08T22:07:09.879Z"
+  },
+  {
+    "id": "1789070223635",
+    "name": "Test User",
+    "email": "test707566772@example.com",
+    "password": "$2a$10$ttGCyNRppBdHU8lXbUrAW.uXPerODd1KL8bmO2UFNW.TTDRhaGgHy",
+    "role": "user",
+    "createdAt": "2026-09-10T19:57:03.635Z"
+  },
+  {
+    "id": "1789070355672",
+    "name": "Sherif Emad",
+    "email": "sherifemad@gmail.com",
+    "password": "$2a$10$zreWXAeSxi4hruygIQVWKukVYUM1kqGK0C2jhmiHutvJMfTwqgwDm",
+    "role": "user",
+    "createdAt": "2026-09-10T19:59:15.672Z"
+  },
+  {
+    "id": "1789078111109",
+    "name": "Mohamed",
+    "email": "mohamed@gmail.com",
+    "password": "$2a$10$vJ8XsvQBSPOgxTqlQC/ljuwKBMmzFe5wox8pqZYMxrAEolVe2T9US",
+    "role": "user",
+    "createdAt": "2026-09-10T22:08:31.110Z"
+  }
+]
